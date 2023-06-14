@@ -1,0 +1,4 @@
+pyrealsense2==2.54.1.5217
+numpy==1.24.3
+opencv-python==4.7.0.72
+ultralytics==8.0.116
